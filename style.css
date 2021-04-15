@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #FFFFFF!important;
+    color: #300808!important;
 }
 
 .container {
@@ -739,6 +739,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.reco-white {
+    font-size: 14px;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -771,7 +775,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #000000;
+    background-color: #F3976C;
 }
 
 .tc-white {
